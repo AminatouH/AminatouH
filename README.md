@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AminatouH
+- 👀 I’m interested in l'ingénierie logicielle
+- 🌱 I’m currently learning Symfony
+- 💞️ I’m looking to collaborate on les projets innovants
+- 📫 How to reach me @AminatouH
